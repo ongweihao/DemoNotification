@@ -15,7 +15,7 @@
         android:text="NOTIFICATION 1" />
 
     <Button
-        android:id="@+id/Notification2"
+        android:id="@+id/btnNotify2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="NOTIFICATION 2" />
